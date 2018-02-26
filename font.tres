@@ -1,0 +1,14 @@
+[gd_resource type="DynamicFont" load_steps=2 format=2]
+
+[sub_resource type="DynamicFontData" id=1]
+
+font_path = "res://wenzi.ttf"
+
+[resource]
+
+size = 18
+use_mipmaps = false
+use_filter = true
+font_data = SubResource( 1 )
+_sections_unfolded = [ "Font", "Settings" ]
+
